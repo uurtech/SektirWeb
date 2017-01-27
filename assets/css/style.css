@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'alte_haas_groteskbold';
+    src: url('../fonts/altehaasgrotesk_bold-webfont.woff2') format('woff2'),
+         url('../fonts/altehaasgrotesk_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+html, body {height: 100%; font-family: 'Lato', sans-serif; font-weight: 400; font-size: 15px;}
+body {background: #ffffff;}
+ul {list-style: none; margin: 0; padding: 0;}
+h2 {font-size: 14px; font-weight: 600; }
+
+.container {width:100%; max-width: 100%; height: auto; margin: 0px; padding: 0px;}
+.left {width: 100%; height: 100%; background-image: url(../img/web-bg.png); background-position: center; background-repeat: no-repeat; background-size: 100%;text-align: center; padding-top: 30px;}
+.right {width: 100%; height: 100%; box-shadow: -6px 1px 10px 0px rgba(0, 0, 0, 0.19); text-align: center; }
+h4{font-family: 'Work Sans', sans-serif; color: #51d0ff; margin-top: 50px; font-size: 12pt;}
+h5{font-family: 'Work Sans', sans-serif; color: #404040; margin-top: 100px; font-weight: 800; font-size: 20pt;}
